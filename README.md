@@ -50,4 +50,4 @@ The checks include:
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Yashmit26/Kali-Security-Monitor.git
